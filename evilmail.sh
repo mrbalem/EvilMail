@@ -1,4 +1,7 @@
 #!/bin/bash
+#evilmain v.1
+#echo por mrvalem
+#Github: https://github.com/mrbalem/EvilMail.git
 
 dependencias() {  #verificando si el correo sendemail esta en SO.
 printf "[*] Comprovando requerimientos del sistema....!\n"
